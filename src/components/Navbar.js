@@ -37,7 +37,7 @@ const Navbar = () => {
             {/* Logo/Home Link */}
             <Link 
               to="/" 
-              className="text-1xl md:text-3xl font-bold bg-gradient-to-r from-teal-400 to-blue-500 
+              className="text-2xl md:text-4xl font-bold bg-gradient-to-r from-teal-400 to-blue-500 
                 text-transparent bg-clip-text hover:from-blue-400 hover:to-purple-500 transition-all duration-300"
             >
               FitFlex
