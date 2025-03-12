@@ -44,7 +44,7 @@ const Navbar = () => {
             </Link>
 
             {/* Navigation Links */}
-            <div className="flex space-x-8">
+            <div className="hidden md:flex space-x-8">
               <Link 
                 to="/" 
                 className="text-lg md:text-xl font-semibold text-gray-300 hover:text-teal-400 
